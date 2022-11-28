@@ -68,5 +68,5 @@ The package does not yet have unit tests, but the functions appear to work as in
 Install from GitHub using devtools.
 ```r
 install.packages("devtools")
-devtools::install_github("dempseynoel/parlygroups")
+devtools::install_github("pollockl-parl/parlygroups")
 ```
