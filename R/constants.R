@@ -11,4 +11,4 @@ CACHE_APPG_AGM = "agm"
 
 # Link constant ---------------------------------------------------------------
 
-CONTENTS_BASE_URL <- "https://publications.parliament.uk/pa/cm/cmallparty/"
+CONTENTS_BASE_URL <- "http://publications.parliament.uk/pa/cm/cmallparty/"
